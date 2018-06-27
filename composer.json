@@ -1,0 +1,9 @@
+{
+    "name": "pimolo/bug-serializer",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "symfony/serializer": "^3.4",
+        "symfony/property-access": "^3.4"
+    }
+}
